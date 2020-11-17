@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "surname": "Брунов",
+      "name": "Иванович",
+      "patronymic": "Петрович",
+      "phone": "+7 (976) 223 45 15",
+      "email": "awd@awd.io",
+      "birth": "22-12-1987",
+      "group": "121-343",
+      "direction": "Математика",
+      "id": 2
+    },
+    {
+      "surname": "Арбузов",
+      "name": "Николай",
+      "patronymic": "Петрович",
+      "phone": "+7 (952) 774 80 68",
+      "email": "dotka@ex.ru",
+      "birth": "15-08-1990",
+      "group": "171-421",
+      "direction": "Информатика",
+      "id": 3
+    }
+  ]
+}
